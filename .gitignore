@@ -1,0 +1,23 @@
+target/
+!.mvn/wrapper/maven-wrapper.war
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+/out
+/target
+Maven_SpringBoot_Hibernate_MySQL.iml
+src/main/resources/static/
+src/main/resources/templates/
+src/main/webapp/WEB-INF/
